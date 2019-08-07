@@ -1,6 +1,10 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { LifeCycleHooksComponent } from './life-cycle-hooks/life-cycle-hooks.component';
+import { RouterModule } from '@angular/router';
+
+import { compTempRoutes } from './com-temp.routes'
+
+import { LifeCycleHooksComponent } from './';
 
 @NgModule({
   imports: [
