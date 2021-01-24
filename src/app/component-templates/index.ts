@@ -1,1 +1,0 @@
-export * from "./life-cycle-hooks/life-cycle-hooks.component";
